@@ -2,7 +2,7 @@
 
 **EE/ML student at UC San Diego** · Building at the intersection of AI, crypto, and energy infrastructure.
 
-I come from an unusual background — I run a 35,000 ton/year paper mill and corrugating facility in Egypt, which means I think about systems, incentives, and scale before I think about code. That lens shapes everything I build.
+I think about systems, incentives, and scale before I think about code. That lens shapes everything I build.
 
 Currently targeting **Technical PM and early-stage startup roles** where I can own product decisions end-to-end.
 
@@ -33,16 +33,15 @@ Tamper-proof credential verification anchored on-chain. SHA-256 hashes of creden
 ## Background
 
 - 🎓 **UC San Diego** — Electrical Engineering, Class of 2027
-- 🏭 **Operator** — 35,000 ton/year paper mill + 14,000 ton corrugating facility (Egypt)
 - 🔬 **Research interests** — ML inference optimization, AI agent infrastructure, on-chain financial primitives
-- 🌍 **Egyptian entrepreneur** building technical fluency to complement operational experience
+- 🌍 Based in San Diego, CA
 
 ---
 
 ## Currently
 
 - 🔭 Looking for **Technical PM / APM / Founding Engineer** roles in AI, crypto, or energy
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · mohamedfarouk@ucsd.edu
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · mohamedsfarouk1@gmail.com
 
 ---
 
