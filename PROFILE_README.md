@@ -41,7 +41,7 @@ Tamper-proof credential verification anchored on-chain. SHA-256 hashes of creden
 ## Currently
 
 - 🔭 Looking for **Technical PM / APM / Founding Engineer** roles in AI, crypto, or energy
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · mohamedsfarouk1@gmail.com
+- 📬 Reach me: [LinkedIn]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/mohamedosman123/)) · mohamedsfarouk1@gmail.com
 
 ---
 
